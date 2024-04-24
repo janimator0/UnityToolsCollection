@@ -1,0 +1,3 @@
+[submodule "Assets/StateMachina"]
+	path = Assets/StateMachina
+	url = https://github.com/janimator0/StateMachina.git
